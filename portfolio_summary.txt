@@ -1,0 +1,5 @@
+Your Portfolio:
+AAPL - 10 shares x $180 = $1800
+TSLA - 12 shares x $250 = $3000
+
+Total Investment Value: $4800
